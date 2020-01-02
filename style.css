@@ -1,7 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
 header {
   text-align: center;
-  text-color: #FFD033;
-
+  text-decoration-color: #FFD033;
+  
 }
 
 section {
@@ -9,10 +13,11 @@ section {
   border-style: double;
   text-size: 16;
   text-font: times new roman;
+  width: 30%;
 }
 
 #chicken {
-
+  float:left;
 }
 
 .chicken {
@@ -20,7 +25,7 @@ section {
 }
 
 #beef {
-
+float: right;
 }
 
 .beef {
