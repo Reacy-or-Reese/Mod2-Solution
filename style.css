@@ -5,7 +5,7 @@
 header {
   text-align: center;
   text-decoration-color: #FFD033;
-  
+
 }
 
 section {
@@ -33,7 +33,9 @@ float: right;
 }
 
 #sushi {
-
+position: relative;
+top: 30px;
+left: 40px
 }
 
 .sushi {
