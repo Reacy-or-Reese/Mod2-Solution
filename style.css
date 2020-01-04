@@ -4,7 +4,8 @@
 
 header {
   text-align: center;
-  text-decoration-color: #FFD033;
+  text: #FFD033;
+  font-size: 35;
 
 }
 
@@ -14,6 +15,7 @@ section {
   text-size: 16;
   text-font: times new roman;
   width: 30%;
+  top: 45px
 }
 
 #chicken {
@@ -21,23 +23,28 @@ section {
 }
 
 .chicken {
+  border-style: solid;
+  background-color: #bfa706
 
 }
 
 #beef {
-float: right;
+  float: right;
+
+
 }
 
 .beef {
-
+  border-style: solid;
+  background-color: #bfa706
 }
 
 #sushi {
 position: absolute;
-top: 30px;
 left: 350px
 }
 
 .sushi {
-
+  border-style: solid;
+  background-color: #bfa706
 }
