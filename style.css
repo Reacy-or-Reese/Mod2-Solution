@@ -24,8 +24,8 @@ section {
 
 .chicken {
   border-style: solid;
-  background-color: #bfa706
-
+  background-color: #bfa706;
+  width: 16.66%auto;
 }
 
 #beef {
